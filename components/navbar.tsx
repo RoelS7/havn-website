@@ -54,7 +54,7 @@ export function Navbar({ language, onLanguageChange }: NavbarProps) {
               alt="HAVN Logo"
               width={120} // Verhoogde breedte
               height={60} // Verhoogde hoogte (behoudt aspect ratio van 120x60)
-              className="h-40 w-auto" // Verhoogde Tailwind hoogte van h-8 naar h-10 (40px)
+              className="h-20 w-auto" // Verhoogde Tailwind hoogte van h-8 naar h-10 (40px)
               priority
             />
           </Link>
